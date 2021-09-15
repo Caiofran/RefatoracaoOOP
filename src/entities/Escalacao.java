@@ -6,12 +6,12 @@ public class Escalacao {
 	private String imprimir;
 
 	public Escalacao() {
-		this.imprimir="---------Imprimindo Escalação---------";
+		this.imprimir = "---------Imprimindo Escalaï¿½ï¿½o---------";
 	}
-	
+
 	public Escalacao(String imprimir) {
 		super();
-	
+
 		this.imprimir = imprimir;
 	}
 
@@ -22,8 +22,4 @@ public class Escalacao {
 	public void setImprimir(String jogadores) {
 		this.imprimir = jogadores;
 	}
-
-
-
-
 }
